@@ -36,4 +36,4 @@ A aplicação consiste num sistema de cadastro de usuários com suporte a todas 
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone: https://github.com/thaisferreira-moura/Banco_De_Dados.git
