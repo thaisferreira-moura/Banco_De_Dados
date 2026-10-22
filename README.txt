@@ -22,7 +22,7 @@ A aplicação consiste num sistema de cadastro de usuários com suporte a todas 
 * **Interface de Usuário:** XML / Material Design (`TextInputLayout`, `TextInputEditText`, `Button`)
 * **IDE:** Android Studio
 
----
+--- 
 
 ## 📂 Estrutura de Arquivos
 
